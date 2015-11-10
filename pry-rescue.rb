@@ -1,6 +1,7 @@
 require 'pry'
 require 'pry-rescue'
 require 'pry-stack_explorer'
+
 arr = [10, 87,89,0,25]
 
 output = arr.map do |element1|
