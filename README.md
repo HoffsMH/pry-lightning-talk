@@ -18,5 +18,5 @@
     #### Try
     ```ruby
    step # Moves through code line by line
-   finish #completes rest of cod
+   finish # completes rest of code
     ```
