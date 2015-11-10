@@ -36,12 +36,12 @@ Cool ways of using pry.
   ```
 * We can also get pry to be the default debugger in rails by including ``` pry-rails``` instead of just ```pry``` in your gemfile
 
-  ```ruby
+```ruby
   #gemfile
   group :development, :test do
     gem 'pry-rails'
   end
-  ```
+```
 
   ```bundle``` then type ```rails c ``` and you're in pry and not irb!
 
