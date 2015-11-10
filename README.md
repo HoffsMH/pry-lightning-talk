@@ -92,7 +92,7 @@ Cool ways of using pry.
     ```
     both must be installed to work properly
     
-    * ### Try in shell
+    * #### Try
     
     ```bash
     rescue <problematic ruby file>
