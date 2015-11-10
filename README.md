@@ -53,11 +53,11 @@ Cool ways of using pry.
 ## Things to install and try
 * ## [Pry-toys](https://github.com/ariabov/pry-toys)
   * For when you need to test something for yourself really quick. Really usefull for understanding enumerables.
-  
+
     ```bash
      gem install pry-toys
      ```
-     
+
    * #### Try
      ```ruby
     Hash.toy(300) # creates a toy has
@@ -71,6 +71,7 @@ Cool ways of using pry.
    ```bash
     gem install pry-byebug
     ```
+    
    * #### Try
     ```ruby
    step # Moves through code line by line
