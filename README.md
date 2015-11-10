@@ -91,15 +91,15 @@ Cool ways of using pry.
     gem install pry-stack_explorer
     ```
     both must be installed to work properly
-    
+
   * #### Try
-    
+
     ```bash
     rescue <problematic ruby file>
     ```
-    
-    #### and yes it can be used in rails
-    
+
+    #### and yes it can be used with rails
+
     ```bash
     rescue rails s
     ```
