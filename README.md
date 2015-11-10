@@ -73,8 +73,8 @@ Cool ways of using pry.
     gem install pry-byebug
     ```
 
-   * #### Try
-   
+   * ### Try
+
     ```ruby
    step # Moves through code line by line
    continue # completes rest of code
