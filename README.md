@@ -1,4 +1,4 @@
-# Basic Pry stuff
+# Pry stuff
 ## Basic neato's
 Some random things I've found useful that can be used with pry out of the box.
 * ``` whereami ``` to remember where you are in your code
