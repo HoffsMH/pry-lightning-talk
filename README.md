@@ -59,6 +59,7 @@ Cool ways of using pry.
      ```
 
    * #### Try
+
      ```ruby
     Hash.toy(300) # creates a toy has
     Array.toy(3, Time) # creates a toy array of Time objects
@@ -71,8 +72,9 @@ Cool ways of using pry.
    ```bash
     gem install pry-byebug
     ```
-    
+
    * #### Try
+   
     ```ruby
    step # Moves through code line by line
    continue # completes rest of code
