@@ -68,7 +68,7 @@ Cool ways of using pry.
 * ## [Pry-byebug](https://github.com/deivid-rodriguez/pry-byebug)
  * for stepping through code.
  Serves as a fine comb to step through and understand code one line at a time.
-* was originally a fork of [pry-debugger](https://github.com/nixme/pry-debugger) which [doesn't work past Ruby version 2.x](http://stackoverflow.com/questions/24395453/gem-install-debugger-error)
+ * was originally a fork of [pry-debugger](https://github.com/nixme/pry-debugger) which [doesn't work past Ruby version 2.x](http://stackoverflow.com/questions/24395453/gem-install-debugger-error)
    ```bash
     gem install pry-byebug
     ```
